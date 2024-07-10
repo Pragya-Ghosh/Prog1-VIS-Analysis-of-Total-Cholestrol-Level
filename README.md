@@ -42,7 +42,7 @@ The program generates and plots total cholesterol level readings for two groups 
 - The left histogram shows cholesterol level readings for a group of patients with low standard deviation.
 - The right histogram shows cholesterol level readings for a group of patients with high standard deviation.
 
-### Key Points:
+### Main Points:
 **Mean Cholesterol Level:**
 - Group A has an average (mean) cholesterol level of 180 mg/dL.
 - Group B has an average (mean) cholesterol level of 200 mg/dL.
@@ -52,10 +52,8 @@ The program generates and plots total cholesterol level readings for two groups 
 - Low Standard Deviation (Left Plot): The cholesterol readings for this group are tightly clustered around the mean. This indicates that most patients in this group have cholesterol levels close to 180 mg/dL.
 - High Standard Deviation (Right Plot): The cholesterol readings for this group are spread out over a wider range. This indicates that cholesterol levels vary significantly among patients in this group, with some having much higher or lower levels than the average.
 
-### Interpretation:
-**Consistency of Cholesterol Levels:**
+**Results:**
 - The left plot (Group A) shows patients with cholesterol levels that are consistently around 180 mg/dL, suggesting more stable and predictable cholesterol levels. This group may represent patients who follow a diet and exercise plan.
 - The right plot (Group B) shows patients with cholesterol levels that vary widely around 200 mg/dL, suggesting less stability. - This group may represent patients who do not follow a specific plan for managing their cholesterol.
 
-### In Layman's Terms:
-The plots visually explain that even if two groups of patients have different average cholesterol levels, one group (Group A) has readings that are close to their average most of the time (left plot), while the other group (Group B) has readings that vary a lot (right plot). Group A's cholesterol levels are more stable, likely due to following a diet and exercise plan, while Group B's cholesterol levels fluctuate more, possibly due to not following a specific plan.
+

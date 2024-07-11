@@ -26,7 +26,7 @@ The data set is synthetically generated and used for demonstrating the concept o
 
 ## Program-codes
 
-The programs are written on Jupyter notebook, You may run the program on Google Colab by clicking on the colab badge below.
+The programs are written on Jupyter notebook. You may run the program on Google Colab by clicking on the colab badge below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pragya-Ghosh/Prog1-VIS-Analysis-of-Total-Cholestrol-Level/blob/main/Prog1-VIS-Analysis-of-Total-Cholestrol-Level.ipynb)
 
